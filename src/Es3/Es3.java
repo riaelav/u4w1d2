@@ -12,14 +12,11 @@ while (!word.equals(":q")) {
     System.out.print("Inserisci una parola (o scrivi ':q' per uscire): ");
     word = scanner.nextLine();
     if (!word.equals(":q")) {
-        for
+        for 
     }
 
 
 
 
 }*/
-    }
 
-
-}
